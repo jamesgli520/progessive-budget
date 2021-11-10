@@ -69,7 +69,7 @@ node server.js
 ```
 
 **Run on Heroku** <br>
-* Application deployed at live URL: 
+* Application deployed at live URL: https://budget-tracker-v01.herokuapp.com/
 
 ## Contributing
 **Create**<br> 
